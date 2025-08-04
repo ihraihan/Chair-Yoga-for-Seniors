@@ -1,6 +1,6 @@
 **Terms & Conditions**  
 
-These terms and conditions apply to the ChairFit app (hereby referred to as "Application") for mobile devices that was created by PulseApps LLC (hereby referred to as "Service Provider") as a Freemium service.
+These terms and conditions apply to the Chair Yoga for Seniors app (hereby referred to as "Application") for mobile devices that was created by PulseApps LLC (hereby referred to as "Service Provider") as a Free service.
 
 Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application. Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
 
@@ -10,9 +10,8 @@ The Application stores and processes personal data that you have provided to the
 
 Please note that the Application utilizes third-party services that have their own Terms and Conditions. Below are the links to the Terms and Conditions of the third-party service providers used by the Application:
 
-*   [Google Play Services](https://policies.google.com/terms)
 *   [Google Analytics for Firebase](https://www.google.com/analytics/terms/)
-*   [RevenueCat](https://www.revenuecat.com/terms)
+*   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 
 Please be aware that the Service Provider does not assume responsibility for certain aspects. Some functions of the Application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance.
 
@@ -28,7 +27,7 @@ The Service Provider may wish to update the application at some point. The appli
 
 The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of 2025-07-07
+These terms and conditions are effective as of 2025-08-04
 
 **Contact Us**
 
