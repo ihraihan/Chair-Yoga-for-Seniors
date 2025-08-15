@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-This privacy policy applies to the Chair Yoga for Seniors app (hereby referred to as "Application") for mobile devices that was created by PulseApps LLC (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+This privacy policy applies to the Chair Yoga for Seniors app (hereby referred to as "Application") for mobile devices that was created by PulseApps LLC (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
@@ -31,6 +31,9 @@ Please note that the Application utilizes third-party services that have their o
 
 *   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+*   [One Signal](https://onesignal.com/privacy_policy)
+*   [Mixpanel](https://mixpanel.com/legal/privacy-policy/)
+*   [RevenueCat](https://www.revenuecat.com/privacy)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
@@ -60,7 +63,7 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2025-08-04
+This privacy policy is effective as of 2025-08-15
 
 **Your Consent**
 
